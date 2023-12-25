@@ -1,0 +1,10 @@
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\bin\Debug\Ergasia_1.exe.config
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\bin\Debug\Ergasia_1.exe
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\bin\Debug\Ergasia_1.pdb
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.csproj.AssemblyReference.cache
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.Form1.resources
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.Properties.Resources.resources
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.csproj.GenerateResource.cache
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.csproj.CoreCompileInputs.cache
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.exe
+C:\Users\angie\source\repos\Ergasia_1\Ergasia_1\obj\Debug\Ergasia_1.pdb
